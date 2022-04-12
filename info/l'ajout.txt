@@ -1,0 +1,105 @@
+ // // 01-L'insertion des type
+        // $type1=new Type([
+        //   'nom'=>"Nationale",
+        //   'description'=>"Nationale"
+        // ]);
+        // $type1->save();
+
+        // $type2=new Type([
+        //     'nom'=>'Internationale',
+        //     'description'=>'Internationale'
+        //   ]);
+        // $type2->save();
+
+        //02-L'insertion des Regions
+        //  $type1=new Region([
+        //   'nom'=>"Tanger-Tétouan-Al Hoceïma",
+        //   'description'=>"Tanger-Tétouan-Al Hoceïma",
+        //   'type_id'=>1
+        // ]);
+        // $type1->save();
+        // $type2=new Region([
+        //     'nom'=>"l'Oriental",
+        //     'description'=>"l'Oriental",
+        //     'type_id'=>1
+        // ]);
+        // $type2->save();
+        // $type3=new Region([
+        //     'nom'=>"Fès-Meknès",
+        //     'description'=>"Fès-Meknès",
+        //     'type_id'=>1
+        // ]);
+        // $type3->save();
+        // $type4=new Region([
+        //     'nom'=>"Rabat-Salé-Kénitra",
+        //     'description'=>"Rabat-Salé-Kénitra",
+        //     'type_id'=>1
+        // ]);
+        // $type4->save();
+        // $type5=new Region([
+        //     'nom'=>"Béni Mellal-Khénifra",
+        //     'description'=>"Béni Mellal-Khénifra",
+        //     'type_id'=>1
+        // ]);
+        // $type5->save();
+        // $type6=new Region([
+        //     'nom'=>"Casablanca-Settat",
+        //     'description'=>"Casablanca-Settat",
+        //     'type_id'=>1
+        //   ]);
+        //   $type6->save();
+        //   $type7=new Region([
+        //       'nom'=>"Marrakech-Safi",
+        //       'description'=>"Marrakech-Safi",
+        //       'type_id'=>1
+        //   ]);
+        //   $type7->save();
+        //   $type8=new Region([
+        //       'nom'=>"Drâa-Tafilalet",
+        //       'description'=>"Drâa-Tafilalet",
+        //       'type_id'=>1
+        //   ]);
+        //   $type8->save();
+        //   $type9=new Region([
+        //       'nom'=>"Souss-Massa",
+        //       'description'=>"Souss-Massa",
+        //       'type_id'=>1
+        //   ]);
+        //   $type9->save();
+        //   $type10=new Region([
+        //       'nom'=>"Guelmim-Oued Noun",
+        //       'description'=>"Guelmim-Oued Noun",
+        //       'type_id'=>1
+        //   ]);
+        //   $type10->save();
+        //   $type11=new Region([
+        //     'nom'=>"Laâyoune-Sakia El Hamra",
+        //     'description'=>"Laâyoune-Sakia El Hamra",
+        //     'type_id'=>1
+        //    ]);
+        //    $type11->save();
+        //    $type12=new Region([
+        //        'nom'=>"Dakhla-Oued Ed Dahab",
+        //        'description'=>"Dakhla-Oued Ed Dahab",
+        //        'type_id'=>1
+        //    ]);
+        //    $type12->save();
+
+        //03-L'insertion des categories
+        //     $type1=new Categorie([
+        //        'nom'=>"Normale",
+        //        'description'=>"Normale"
+        //    ]);
+        //    $type1->save();
+
+        //    $type2=new Categorie([
+        //     'nom'=>"Sponsor",
+        //     'description'=>"Sponsor"
+        //    ]);
+        //    $type2->save();
+
+        //    $type3=new Categorie([
+        //     'nom'=>"Partenaire",
+        //     'description'=>"Partenaire"
+        //    ]);
+        //    $type3->save();

@@ -1,0 +1,182 @@
+aside .sidebar .user-panel {
+    overflow: hidden;
+    white-space: nowrap;
+}
+/* ------------------------------------ Style zineb --------------------------------------------------------------------------------------- */
+.btn-participant {
+    float: right;
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+    padding: 4px 40px;
+    background-color: #4285f4;
+    color:white;
+    border: none;
+    margin-left: 19px;
+    width: 180px;
+}
+.succes {
+    background-color: darkseagreen;
+    padding: 15px;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    color: darkgreen;
+    margin-bottom: 30px;
+}
+
+.btnAnnuler{
+    margin-right: 10px;
+}
+
+.btn-success {
+    margin-right: 21px;
+}
+
+.rechercher-admin{
+    width: 513px;
+    margin-left: 10px;
+    display: flex;
+}
+.btn-filter-edition{
+    margin-left: 2px;
+    margin-right: 4px;
+    background-color: #f8f9fa;
+    border-color: #ddd !important;
+}
+
+.action{
+    width: 314px;
+}
+
+.exporter-data{
+    margin-left: 15px;
+}
+
+.exporte-dropdown{
+    width: 341px;
+    padding: 12px 20px;
+    transform: translate3d(-236px, 38px, 0px) !important;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+
+.icon-profile i {
+    font-size: 32px;
+    margin-left: 10px;
+    color: white;
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link.active, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link.active:focus, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link.active:hover {
+    background-color: #000066 !important;
+    color: #fff !important;
+}
+
+.tab_info_pro {
+    width: 100%;
+    font-size: 16px;
+}
+
+#card-profile {
+    width: 90%;
+    margin: auto;
+}
+
+.tab_info_pro .col-left {
+    width: 15%;
+    font-weight: bold;
+}
+
+.modal-4 a {
+    margin: 0 5px;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+    background-color: #17a2b8 !important;
+    color: #fff;
+}
+
+.modal-4 a.active, .modal-4 a:active {
+    background-color: #aee1fc !important;
+    color: black;
+}
+
+.pagination {
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.modal-4 a.prev{
+    border-radius: 50px 0 0 50px;
+    width: 100px;
+}
+
+.modal-4 a.next {
+    -moz-border-radius: 0 50px 50px 0;
+    -webkit-border-radius: 0;
+    border-radius: 0 50px 50px 0;
+    width: 100px;
+}
+
+.pagination a{
+    /* padding-left: 10px; */
+    float: left;
+    display: block;
+    font-size: 14px;
+    text-decoration: none;
+    /*color: #fff;
+    border: 1px solid transparent;*/
+}
+
+.div_center{
+    display: block;
+    margin: auto;
+}
+
+#deleteModal{
+  text-align: center;
+}
+
+#deleteModal .swal2-content{
+    padding: 20px;
+}
+
+td.sup {
+    width: 260px;
+}
+
+#btn-fermer-salles{
+    margin-left: 13px;
+}
+
+/********************/
+.card {
+    margin-top: 1rem;
+}
+@media (max-width:606px){
+    .rechercher-admin{
+        position: absolute;
+        width: 100%;
+        margin-bottom: 1rem;
+        display: block;
+    }
+    .exporter-data{
+        position: relative;
+        width: 50%;
+        margin-bottom: 1rem;
+        display: block;
+    }
+    .dropdownMenuButton{
+        position: relative;
+        width: 50%;
+        margin-bottom: 1rem;
+        display: block;
+    }
+}
+/********************/
